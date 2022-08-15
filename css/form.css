@@ -2,24 +2,24 @@
  * Styles for the add-observation.html page 
  */
 
- .required{
+.required {
   color: red;
- }
+}
 
- #obs-desc{
-   width: 500px;
- }
+#obs-desc {
+  width: 500px;
+}
 
- #obs-note{
-   width: 520px;
- }
+#obs-note {
+  width: 520px;
+}
 
- #lat,
- #long{
-   width: 150px;
- }
+#lat,
+#long {
+  width: 150px;
+}
 
- #photo-name,
- #email{
-   width: 500px;
- }
+#photo-name,
+#email {
+  width: 500px;
+}
